@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="ssh3090" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="ssh2080ti@172.20.62.39">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ssh3090">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/media/li/000BEF3A00021781/LPF/Cls-Cluster-demo" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
